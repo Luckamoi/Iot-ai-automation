@@ -47,5 +47,6 @@ Access the n8n instance (http://localhost:5678) and import the pre-configured au
  * **Actuator Control (Relay):** Control Signal → ESP32 GPIO 18 → Door Lock Mechanism
 ## 📄 License
 This project is licensed under the MIT License (see the LICENSE file).
+
 **Developed by:** @Luckamoi - *Electrical  Engineer*
 
