@@ -1,4 +1,3 @@
-นี่คือไฟล์ README.md ฉบับสมบูรณ์ที่รวมเอาบทสรุปแบบกระชับเข้ากับโครงสร้างเชิงวิศวกรรมแบบมืออาชีพเรียบร้อยแล้วครับ สามารถนำไปใช้ใน GitHub และ Portfolio ได้เลย:
 # ⚖️ IoT-AI Telemetry & Automated Access Control Architecture
 > An end-to-end IoT platform demonstrating edge-to-cloud data orchestration, integrating real-time physical sensor telemetry with Large Language Models (LLMs) and automated workflows for intelligent analytics and biometric security.
 > 
@@ -48,5 +47,5 @@ Access the n8n instance (http://localhost:5678) and import the pre-configured au
  * **Actuator Control (Relay):** Control Signal → ESP32 GPIO 18 → Door Lock Mechanism
 ## 📄 License
 This project is licensed under the MIT License (see the LICENSE file).
-**Developed by:** @Luckamoi - *Electrical & IoT Systems Engineer*
+**Developed by:** @Luckamoi - *Electrical  Engineer*
 
